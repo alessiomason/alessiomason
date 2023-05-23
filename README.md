@@ -4,6 +4,9 @@
 
 Hi there 👋
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alessiomason&count_private=true&show_icons=true&theme=transparent&hide_border=true#gh-light-mode-only" alt="Alessio's GitHub stats" /></a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alessiomason&count_private=true&show_icons=true&theme=shades-of-purple&hide_border=true#gh-dark-mode-only" alt="Alessio's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessiomason&langs_count=10&layout=compact&theme=transparent&hide_border=true#gh-light-mode-only" /></a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessiomason&langs_count=10&layout=compact&theme=shades-of-purple&hide_border=true#gh-dark-mode-only" /></a> |
+| ------------- | ------------- |
+
 
 <!--
 **alessiomason/alessiomason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Still writing this 😅
