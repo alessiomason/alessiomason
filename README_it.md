@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Al momento...
 
-- Imparando lo sviluppo di abblicazioni mobile per Android e iOS (native e cross-platform)
+- Imparando lo sviluppo di applicazioni mobile per Android e iOS (native e cross-platform)
 - Imparando lo sviluppo del backend di applicazioni web con Spring Boot
 - Mantenendo alcune applicazioni web sviluppate negli anni passati in PHP e Javascript
 
