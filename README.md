@@ -9,13 +9,14 @@
 ### 🗄️ Some repos you might want to take a look at
 
 - 🎓 [masters-degree-thesis](https://github.com/alessiomason/masters-degree-thesis): the repository containing my Master's Degree thesis work. Both the thesis itself and files, code and data used throughout the work are included
+- 📱 [Flashword](https://github.com/alessiomason/flashword): my first iOS app, which allows you to store the words you learn and to revise them, even dividing them in categories of your choice
 - 📋 [gestionale](https://github.com/alessiomason/gestionale): the aforementioned web application to manage jobs and register worked hours
 	- Developed in TypeScript using Express for the backend and React for the frontend
 - 🎾 [MAD-Labs](https://github.com/alessiomason/MAD-Labs): the repository containing the project developed throughout the Mobile Application Development course @ Politecnico di Torino; that is, an Android app for making reservations for available playgrounds to play a selection of sports
 	- Developed in Kotlin using a mix of activities and fragments, view-based screens and Jetpack Compose ones
 - 📑 [WAII-Labs](https://github.com/alessiomason/WAII-Labs): the repository containing the project developed throughout the Web Applications II course @ Politecnico di Torino; that is, a web application that allows customers of electronic goods to submit assistance tickets, which are than managed by specialized experts and managers
 	- Developed in Kotlin using Spring Boot
-- 🌐 [personal-website](): the repository containing the source code for my personal website
+- 🌐 [personal-website](https://github.com/alessiomason/personal-website): the repository containing the source code for my personal website
 	- Developed using React
 
 ### 📊 My GitHub stats

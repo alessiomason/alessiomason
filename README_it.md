@@ -9,13 +9,14 @@
 ### 🗄️ Alcuni repo a cui potresti voler dare un'occhiata
 
 - 🎓 [masters-degree-thesis](https://github.com/alessiomason/masters-degree-thesis): il repository che contiene il mio lavoro di Tesi Magistrale. Sono inclusi sia la tesi stessa che file, codice e dati utilizzati nello svolgimento del lavoro
+- 📱 [Flashword](https://github.com/alessiomason/flashword): la mia prima app iOS, che ti permette di salvare le parole che impari per rivederle in seguito, dividendole anche in categorie di tua scelta
 - 📋 [gestionale](https://github.com/alessiomason/gestionale): la summenzionata applicazione web per gestire le commesse e registrare le ore lavorate
 	- Sviluppata in TypeScript usando Express per il backend e React per il frontend
 - 🎾 [MAD-Labs](https://github.com/alessiomason/MAD-Labs): il repository che contiene in progetto sviluppato durante il corso di Mobile Application Development course al Politecnico di Torino; ovvero un'app Android per la prenotazione di campi disponibili per giocare ad una selezione di sport
 	- Sviluppata in Kotlin usando un misto di activity e fragment, schermate view-based e Jetpack Compose
 - 📑 [WAII-Labs](https://github.com/alessiomason/WAII-Labs): il repository che contiene il progetto sviluppato durante il corso di Web Applications II course al Politecnico di Torino; ovvero un'applicazione web per consentire a clienti di beni elettronici di inviare dei ticket di assistenza, poi gestiti da esperti specializzati e manager
 	- Sviluppata in Kotlin utilizzando Spring Boot
-- 🌐 [personal-website](): il repository che contiene il codice sorgente per il mio sito web personale
+- 🌐 [personal-website](https://github.com/alessiomason/personal-website): il repository che contiene il codice sorgente per il mio sito web personale
 	- Sviluppato utilizzando React
 
 ### 📊 Le mie statistiche GitHub
