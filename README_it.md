@@ -1,10 +1,14 @@
-## Laurea Magistrale in Ingegneria informatica @ Politecnico di Torino
+## Insegnante di Informatica nella scuola secondaria
 
 ### 👨‍💻 Al momento sto...
 
+- Insegnando! 👨‍🏫
 - Imparando lo sviluppo di applicazioni mobile per iOS
 - Sviluppando un'applicazione web per gestire le commesse e registrare le ore lavorate per un'azienda che l'ha richiesta
 - Manutenendo alcune applicazioni web sviluppate negli anni passati in PHP e JavaScript
+
+### 📚 Education
+- Laurea Magistrale in Ingegneria informatica @ Politecnico di Torino
 
 ### 🗄️ Alcuni repo a cui potresti voler dare un'occhiata
 

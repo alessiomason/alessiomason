@@ -1,10 +1,14 @@
-## Master's degree in Software engineering @ Politecnico di Torino
+## High school Computer Science teacher in Italy 🇮🇹
 
 ### 👨‍💻 Currently working on...
 
+- Teaching! 👨‍🏫
 - Learning mobile application development for iOS
 - Developing a web application to manage jobs and register worked hours for a company that requested it
 - Maintaining a few web applications developed in the past few years in PHP and JavaScript
+
+### 📚 Education
+- Master's degree in Software engineering @ Politecnico di Torino
 
 ### 🗄️ Some repos you might want to take a look at
 
